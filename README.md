@@ -1,8 +1,23 @@
 # TechStore - E-commerce Storefront
 
-![TechStore Banner](https://via.placeholder.com/1200x600/09090b/fafafa?text=TechStore+E-commerce)
+<p align="center">
+  <img src="docs/screenshots/01-storefront.png" alt="TechStore — Vitrine Principal e Catálogo de Produtos" width="100%" />
+</p>
 
 Um e-commerce moderno e responsivo construído como projeto de portfólio para demonstrar habilidades em tecnologias frontend de ponta, foco em Core Web Vitals e boas práticas de arquitetura.
+
+## 📸 Capturas de Tela
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/02-produto.png" alt="TechStore — Página de Detalhes do Produto" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/03-carrinho.png" alt="TechStore — Carrinho Slide-over Drawer" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Tecnologias Utilizadas
 
